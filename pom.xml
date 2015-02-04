@@ -23,13 +23,13 @@
     <version>7</version>
   </parent>
 
-  <groupId>com.squareup</groupId>
+  <groupId>com.bandwidth.rw.squareup</groupId>
   <artifactId>tape-parent</artifactId>
-  <version>1.2.4-SNAPSHOT</version>
+  <version>1.2.4</version>
   <packaging>pom</packaging>
 
   <name>Tape (Parent)</name>
-  <description>A lightning fast, transactional, file-based FIFO for Android and Java.</description>
+  <description>A lightning fast, transactional, file-based FIFO for Android and Java. Modified by Republic to get an early 1.2.4 release.</description>
   <url>http://github.com/square/tape/</url>
 
   <modules>
